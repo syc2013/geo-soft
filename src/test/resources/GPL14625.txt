@@ -1,0 +1,59 @@
+﻿^PLATFORM = GPL14625
+!Platform_title = CIMAP Papaver somniferum
+!Platform_geo_accession = GPL14625
+!Platform_status = Public on Dec 30 2013
+!Platform_submission_date = Sep 27 2011
+!Platform_last_update_date = Dec 30 2013
+!Platform_technology = spotted oligonucleotide
+!Platform_distribution = custom-commercial
+!Platform_organism = Papaver somniferum
+!Platform_taxid = 3469
+!Platform_manufacturer = Ocimum Biosolutions
+!Platform_manufacture_protocol = Five microgram of total RNA was used for amplification using Amino Allyl MessageAmp™ II aRNA Amplification Kit from Ambion by linear transcription based RNA amplification system to produce cRNA. Briefly, mRNA is reverse transcribed with a oligo (dT) primer bearing T7 promoter at 42°C for 2 hrs and second strand cDNA synthesis at 16°C for 2 hrs. The resulting cDNA was then purified and was then transcribed with T7 RNA polymerase to generate multiple copies of aminoallyl antisense RNA (aRNA) at 37°C for 16 hrs. aRNA is then labelled with Cy3TM/Cy5TM post-labelling reactive dye pack (GE Healthcare, UK) at room temperature and unincorporated Cy3/Cy5  molecules were removed by purification process.
+!Platform_contributor = Nidarshana,,Chaturvedi
+!Platform_contributor = Mridula,,Singh
+!Platform_contributor = Ashutosh,K,Shukla
+!Platform_contributor = Ajit,K,Shasany
+!Platform_contributor = Suman,,Khanuja
+!Platform_contact_name = Ashutosh,K,Shukla
+!Platform_contact_email = ashupov@yahoo.com
+!Platform_contact_phone = +91-522-2718553
+!Platform_contact_fax = +91-522-2342666
+!Platform_contact_department = Biotechnology Division
+!Platform_contact_institute = CSIR-Central Institute of Medicinal and Aromatic Plants
+!Platform_contact_address = P.O. CIMAP
+!Platform_contact_city = Lucknow
+!Platform_contact_state = Uttar Pradesh
+!Platform_contact_zip/postal_code =  226015
+!Platform_contact_country = India
+!Platform_sample_id = GSM931298
+!Platform_sample_id = GSM931299
+!Platform_series_id = GSE37983
+!Platform_data_row_count = 750
+#ID = 
+#SEQUENCE = Probe Sequence
+#EST_Sequence_Accession = Description
+#GB_ACC = GenBank Accession LINK_PRE:"http://www.ncbi.nlm.nih.gov/nuccore/?term="
+!platform_table_begin
+ID	SEQUENCE	EST_Sequence_Accession	GB_ACC
+OBSca1001_0001	GGTGAAGTCATTCTTGATGTTGAAAGTCTTACGGATCTCCTCAGGTGTCT	Contig1	
+OBSca1001_0001_46	AACGCTCGGGAAGTTCTTGTTAATAAATCTGCTGATTATTCCGCTAGAGA	gi|148841089|gb|EF451150.1| Papaver somniferum salutaridine synthase mRNA, complete cds	EF451150.1
+OBSca1001_0002	ATTATGATAGAGCAGGAGAGAAATCCAACAAGACAAGGACTACAAGACTG	Contig2	
+OBSca1001_0002_46	TGTCTTCGTAGAAATCCACTTAGTTTCCTCACTAGCCTAGACTGTATCAT	gi|67764090|gb|DQ028579.1| Papaver somniferum S-adenosyl-L-methionine:(S)-tetrahydroprotoberberine-cis-N-methyltransferase mRNA, complete cds	DQ028579.1
+OBSca1001_0003	ATGACAATACGCAATGGAAGACCACGAGTGAATAGACCCAAGACACCGAT	Contig3	
+OBSca1001_0003_46	AAAACAAATGGAACATGGGAGCAATGTGAAAGTAGAGCTTGGAAATGGAG	gi|126428414|gb|EF071995.1| Papaver somniferum PISTILLATA-like protein (PI-2) mRNA, complete cds	EF071995.1
+OBSca1001_0004	GCTTGTTTACAGAGGTCCATCTTTATCCATCTCGGTTGATTGTTTGCTAA	Contig4	
+OBSca1001_0004_46	AAAATAAGCGCCTCATTGCCAAACTACAACAAGTGGAAATTCATGGAAGA	gi|126428412|gb|EF071994.1| Papaver somniferum PISTILLATA-like protein (PI-1) mRNA, complete cds	EF071994.1
+OBSca1001_0005	CTTCACTCCGATCAAGAATTATTCAATGGTGGATCTACCGATTCGCAAGT	Contig5	
+OBSca1001_0005_46	AAACTCACAAGAATCTCCTACGTGCAACTTATTCTCAGGCTGATAGAGAA	gi|126428410|gb|EF071993.1| Papaver somniferum APETALA3-like protein (AP3-1) mRNA, complete cds	EF071993.1
+OBSca1001_0006	GTACTCATGCCTTGCTTAGATGCTCTCCATTTCCTTCTAGTTCTGTGTGA	Contig6	
+OBSca1001_0006_46	AAAAGAGTAATATGATAGACCTCACGTTATGCTCAAGCAAGGCGAAGATA	gi|126428408|gb|EF071992.1| Papaver somniferum APETALA3-like protein (AP3-2) mRNA, complete cds	EF071992.1
+OBSca1001_0007	GAAGTACGGTTCAGGAGGCGGCTAATTAACACACTCTAGGATTTGTAGTA	Contig7	
+OBSca1001_0007_46	AACAATCATAGAAAAAACCAGAAGGTCCATCGTCGGGGAAAAGAGCTATT	gi|83817205|gb|DQ316261.1| Papaver somniferum salutaridine reductase mRNA, complete cds	DQ316261.1
+OBSca1001_0008	GAAGAATCGGAAGATTGGTTGCTAGAGTTGCCCTACAGAGAGATGATGTT	Contig10	
+OBSca1001_0008_46	AAAAGTATTTGGCATCAATGGAAGGTGCAGTTTTATCTGGAAAGCTCTGT	gi|71040052|gb|DQ116056.1| Papaver somniferum phytoene desaturase (PDS) mRNA, partial cds	DQ116056.1
+OBSca1001_0009	TGTTATCAAGAAGAATGAAGCCATCAACGGTCACTACAAGAATGTCAAGT	Contig12	
+OBSca1001_0010	TCACGAATCATCACTTACTCTATCAACAACCATCACCATCACAATCAGAA	Contig13	
+OBSca1001_0010_46	AAAACCATGCATTGCATTGCAGAGGTTTAGTTCTAATTCGTGCAATTTTC	gi|61814641|gb|AY860500.1| Papaver somniferum S-norcoclaurine synthase 1 (NCS1) mRNA, complete cds	AY860500.1
+OBSca1001_0011	AAACAACAAGAATTGATAATGGGAAGGAGTACGCTGCTTACACCACTGAA	Contig14	
+!platform_table_end

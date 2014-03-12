@@ -1,0 +1,77 @@
+﻿^SAMPLE = GSM931299
+!Sample_title = Sampada
+!Sample_geo_accession = GSM931299
+!Sample_status = Public on Dec 30 2013
+!Sample_submission_date = May 15 2012
+!Sample_last_update_date = Dec 30 2013
+!Sample_type = RNA
+!Sample_channel_count = 2
+!Sample_source_name_ch1 = Capsule wall
+!Sample_organism_ch1 = Papaver somniferum
+!Sample_taxid_ch1 = 3469
+!Sample_characteristics_ch1 = tissue: Capsule wall
+!Sample_characteristics_ch1 = genotype: Sampada
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = Total RNA was isolated using RNeasy Mini Kit (Qiagen) according to manufacturer’s instructions. RNA concentration was determined by measuring its absorbance at 260 and 280 nm using a NanoDrop (NanoDrop, USA) and RNA quality was evaluated by electrophoretic analysis with Agilent 2100 Bioanalyzer (Agilent Technologies Inc., Palo Alto, CA). Total RNA that met the quality standards was released for probe generation.
+!Sample_label_ch1 = Cy3, Cy5
+!Sample_label_protocol_ch1 = Five microgram of total RNA was used for amplification using Amino Allyl MessageAmp™ II aRNA Amplification Kit from Ambion by linear transcription based RNA amplification system to produce cRNA. Briefly, mRNA was reverse transcribed with a oligo (dT) primer bearing T7 promoter at 42°C for 2 hrs and second strand cDNA synthesis was carried out at 16°C for 2 hrs. The resulting cDNA was then purified and was then transcribed with T7 RNA polymerase to generate multiple copies of aminoallyl antisense RNA (aRNA) at 37°C for 16 hrs. aRNA was then labelled with Cy3TM/Cy5TM post-labelling reactive dye pack (GE Healthcare, UK) at room temperature and unincorporated Cy3/Cy5  molecules were removed by purification process. Samples were purified using QIAGEN PCR purification kit before hybridization.
+!Sample_source_name_ch2 = Capsule wall
+!Sample_organism_ch2 = Papaver somniferum
+!Sample_taxid_ch2 = 3469
+!Sample_characteristics_ch2 = tissue: Capsule wall
+!Sample_characteristics_ch2 = genotype: Sampada
+!Sample_molecule_ch2 = total RNA
+!Sample_extract_protocol_ch2 = Total RNA was isolated using RNeasy Mini Kit (Qiagen) according to manufacturer’s instructions. RNA concentration was determined by measuring its absorbance at 260 and 280 nm using a NanoDrop (NanoDrop, USA) and RNA quality was evaluated by electrophoretic analysis with Agilent 2100 Bioanalyzer (Agilent Technologies Inc., Palo Alto, CA). Total RNA that met the quality standards was released for probe generation.
+!Sample_label_ch2 = Cy5, Cy3
+!Sample_label_protocol_ch2 = Five microgram of total RNA was used for amplification using Amino Allyl MessageAmp™ II aRNA Amplification Kit from Ambion by linear transcription based RNA amplification system to produce cRNA. Briefly, mRNA was reverse transcribed with a oligo (dT) primer bearing T7 promoter at 42°C for 2 hrs and second strand cDNA synthesis was carried out at 16°C for 2 hrs. The resulting cDNA was then purified and was then transcribed with T7 RNA polymerase to generate multiple copies of aminoallyl antisense RNA (aRNA) at 37°C for 16 hrs. aRNA was then labelled with Cy3TM/Cy5TM post-labelling reactive dye pack (GE Healthcare, UK) at room temperature and unincorporated Cy3/Cy5  molecules were removed by purification process. Samples were purified using QIAGEN PCR purification kit before hybridization.
+!Sample_hyb_protocol = 10.0 µg of the labeled aRNA in 75 µl of Ocimum's Hyb buffer was used for hybridization with the CA1001 custom array chip for Papaver somniferum designed and printed at Ocimum Biosolutions, Hyderabad. Hybridized chips were scanned using Affymetrix 428TMarray scanner at three different PMT gains and the data was analyzed using Genowiz software from Ocimum Biosolutions.
+!Sample_scan_protocol = Arrays were scanned using an Affymetrix 428 scanner at three PMT settings 40,50 and 60.
+!Sample_description = For each sample, Cy3 and Cy5 intensities related to that sample were averaged, and were further used to compare the samples
+!Sample_data_processing = Image analysis was carried out using Imagene, version 5.6.1. The signal values obtained at three PMT settings 40,50 and 60 were averaged, to get the signal mean for further analysis. Replicate genes were also averaged before normalization. Thus obtained signal values from each channel were log2 transformed and normalized using LOWESS algorithm and MAD scaling. For each sample, Cy3 and Cy5 intensities related to that sample were averaged, and were further used to compare the samples.
+!Sample_platform_id = GPL14625
+!Sample_contact_name = Ashutosh,K,Shukla
+!Sample_contact_email = ashupov@yahoo.com
+!Sample_contact_phone = +91-522-2718553
+!Sample_contact_fax = +91-522-2342666
+!Sample_contact_department = Biotechnology Division
+!Sample_contact_institute = CSIR-Central Institute of Medicinal and Aromatic Plants
+!Sample_contact_address = P.O. CIMAP
+!Sample_contact_city = Lucknow
+!Sample_contact_state = Uttar Pradesh
+!Sample_contact_zip/postal_code =  226015
+!Sample_contact_country = India
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl005-Cy5-40.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl005-Cy5-50.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl005-Cy5-60.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl005-Cy5.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl006-Cy3-40.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl006-Cy3-50.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl006-Cy3-60.txt.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM931nnn/GSM931299/suppl/GSM931299_sl006-Cy3.txt.gz
+!Sample_series_id = GSE37983
+!Sample_data_row_count = 750
+#ID_REF = 
+#VALUE = lowess normalized log2 value (Cy3 and Cy5 intensities averaged)
+!sample_table_begin
+ID_REF	VALUE
+OBSca1001_0001	-1.229458
+OBSca1001_0001_46	1.493174
+OBSca1001_0002	-0.621557
+OBSca1001_0002_46	-1.025901
+OBSca1001_0003	-1.420476
+OBSca1001_0003_46	-1.961063
+OBSca1001_0004	2.251782
+OBSca1001_0004_46	-1.080445
+OBSca1001_0005	-2.383794
+OBSca1001_0005_46	-1.893903
+OBSca1001_0006	4.593534
+OBSca1001_0006_46	-2.022453
+OBSca1001_0007	3.897547
+OBSca1001_0007_46	-1.424476
+OBSca1001_0008	3.963553
+OBSca1001_0008_46	0.299835
+OBSca1001_0009	-0.028118
+OBSca1001_0010	0.310067
+OBSca1001_0010_46	1.900981
+OBSca1001_0011	2.868069
+!sample_table_end

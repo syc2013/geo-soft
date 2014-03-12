@@ -1,0 +1,2 @@
+﻿^PLATFORM = GPL18132
+!Platform_title = NimbleGen Mouse 3X720K [100727_GT_MM9_Ag_recep_ChIP]
